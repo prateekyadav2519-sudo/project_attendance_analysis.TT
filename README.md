@@ -158,19 +158,6 @@ At-Risk Students (Attendance < 60%)
 
 ## 🛠️ **Technical Implementation**
 
-### **Data Structure**
-```python
-{
-    "university": "Rungta International Skill University",
-    "location": "Bhilai, Chhattisgarh",
-    "classes": 400,
-    "students": 80,
-    "records": 32000,
-    "timeframe": "4 months (current)",
-    "metrics": ["attendance", "engagement", "performance", "connectivity"]
-}
-```
-
 ### **Analysis Components**
 - ✅ **Descriptive Statistics**: Mean, median, mode, variance
 - ✅ **Trend Analysis**: Daily, weekly, monthly patterns
