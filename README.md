@@ -15,9 +15,8 @@
 
 ### *A Data-Driven Academic Intelligence System*
 
-![Image](https://epaouydin3q.exactdn.com/wp-content/uploads/2024/02/predictive-analytics-dashboard-1024x585.jpg?lossy=1\&ssl=1\&strip=all)
+<img width="2060" height="836" alt="image" src="https://github.com/user-attachments/assets/37fd010b-11ab-4f13-8867-5ea14a79453f" />
 
-![Image](https://media.licdn.com/dms/image/v2/C5612AQGLoE2GjFUH9w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1552576398708?e=2147483647\&t=2ZsEcKMw-LyqJEroXONjZwVHl0cCIr55LIv9mPCz-X0\&v=beta)
 
 ![Image](https://cdn.prod.website-files.com/5efb0b7816032fd33ce6059c/62d5bbc98f1e1333116cd204_Screen%20Shot%202021-10-07%20at%2012.36.png)
 
