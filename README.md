@@ -1,17 +1,6 @@
 
-<!-- =================== HERO SECTION =================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=900&lines=University+Attendance+Analytics+Dashboard;Python+%7C+Data+Science+%7C+Visualization;32%2C000+Records+%7C+Real-World+Insights" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
-</p>
-
----
-
-# 📊 Online Attendance Analytics & Visualization
+#  Online Attendance Analytics & Visualization
 
 ### *A Data-Driven Academic Intelligence System*
 
@@ -31,12 +20,12 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project is a **high-scale academic analytics system** built using **Python & Data Visualization**, based on simulated institutional data from
 **Rungta International Skill University**.
 
-💡 The system analyzes **32,000+ attendance records** to uncover:
+---The system analyzes **32,000+ attendance records** to uncover:
 
 * Student engagement patterns
 * Faculty performance impact
@@ -45,55 +34,52 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ---
 
-## 🧠 Why This Project Stands Out
+##  Why This Project Stands Out
 
-✅ Real-world scale dataset
-✅ Multi-dimensional analytics
-✅ Decision-ready insights
-✅ Clean & animated visual storytelling
-✅ Strong **Data Analyst / AI Engineer** portfolio value
+ Real-world scale dataset
+ Multi-dimensional analytics
+ Decision-ready insights
+ Clean & animated visual storytelling
+ Strong **Data Analyst / AI Engineer** portfolio value
 
 ---
 
-## 📦 Dataset at a Glance
+##  Dataset at a Glance
 
 
 | Metric         | Value        |
 | -------------- | ------------ |
-| 📄 Records     | **32,000**   |
-| 👨‍🎓 Students | 80           |
-| 🏫 Classes     | 400          |
-| 🧪 Subjects    | 18           |
-| 🏢 Departments | 10           |
-| 👨‍🏫 Faculty  | 8            |
-| 📅 Duration    | Aug–Dec 2025 |
+|  Records       | **32,000**   |
+|  Students      | 80           |
+|  Classes       | 400          |
+|  Subjects      | 18           |
+|  Departments   | 10           |
+|  Faculty       | 8            |
+|  Duration      | Aug–Dec 2025 |
 
 ---
 
-## 📈 Key Insights (Quick Intelligence)
+## Key Insights (Quick Intelligence)
 
 
-* 📉 **Overall Attendance:** `46.42%`
-* ⏱ **Avg Session Duration:** `51.9 mins`
-* 🎯 **Avg Academic Score:** `79.4 / 100`
-* 🗓 **Best Attendance Day:** Wednesday
-* 🧪 **Top Class Type:** Project-Based
-* 🏠 **Hostel > Day Scholar Performance**
-* 🎓 **Scholarship = Higher Engagement**
-
----
-
-## 🏢 Department Intelligence
-
-* 🔝 **Mechanical Engineering** leads attendance
-* ⚠ **Science Department** shows lowest engagement
-* 🧠 Skill-based departments dominate performance
-
-📌 *Practical exposure directly increases attendance.*
+*  **Overall Attendance:** `46.42%`
+*  **Avg Session Duration:** `51.9 mins`
+*  **Avg Academic Score:** `79.4 / 100`
+*  **Best Attendance Day:** Wednesday
+*  **Top Class Type:** Project-Based
+*  **Hostel > Day Scholar Performance**
+*  **Scholarship = Higher Engagement**
 
 ---
 
-## 🎓 Academic Year Analytics
+##  Department Intelligence
+
+*   Mechanical Engineering** leads attendance
+*   Science Department** shows lowest engagement
+*   Skill-based departments dominate performance
+
+
+##  Academic Year Analytics
 
 
 | Year | Attendance | Insight          |
@@ -105,9 +91,9 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ---
 
-## 📚 Subject Popularity Radar
+##  Subject Popularity Radar
 
-🔥 Highest Engagement Subjects:
+ Highest Engagement Subjects:
 
 * Programming Fundamentals
 * Cloud Computing
@@ -115,11 +101,8 @@ This project is a **high-scale academic analytics system** built using **Python 
 * Machine Learning
 * Robotics & Automation
 
-📌 *Industry-aligned curriculum wins.*
 
----
-
-## 👨‍🏫 Faculty Performance Analytics
+##  Faculty Performance Analytics
 
 ![Image](https://chartexpo.com/blog/wp-content/uploads/2022/12/performance-chart-for-employees.jpg)
 
@@ -130,23 +113,20 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ---
 
-## 💻 Tech & Infrastructure Impact
+##  Tech & Infrastructure Impact
 
-### 🖥 Devices
+###  Devices
 
 * Desktop users show **highest attendance**
 * Mobile & Laptop users stay consistent
 
-### 🌐 Internet
+###  Internet
 
-* ✅ WiFi performs best
-* ❌ Broadband lags behind
+*  WiFi performs best
+*  Broadband lags behind
 
-📌 *Connectivity quality = learning continuity.*
 
----
-
-## 🏠 Hostel vs Day Scholar
+## Hostel vs Day Scholar
 
 
 | Category    | Attendance | Score    |
@@ -156,20 +136,17 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ---
 
-## 🧪 Class Type Effectiveness
+##  Class Type Effectiveness
 
 | Type       | Attendance | Engagement |
 | ---------- | ---------- | ---------- |
-| 🚀 Project | **52%**    | **9.2**    |
+|  Project   | **52%**    | **9.2**    |
 | Workshop   | 48%        | 8.6        |
 | Lab        | 47%        | 8.3        |
 | Lecture    | 45%        | 8.0        |
 
-📌 *Hands-on learning delivers maximum ROI.*
 
----
-
-## 📊 Visualization Dashboard
+##  Visualization Dashboard
 Includes:
 
 * Faculty comparison charts
@@ -181,7 +158,7 @@ Built using **Matplotlib & Seaborn**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```text
 Python
@@ -194,21 +171,21 @@ Jupyter Notebook
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-* 🤖 ML-based attendance prediction
-* 🚨 At-risk student detection
-* 📊 Power BI / Tableau dashboard
-* 🧠 AI-driven engagement recommendations
-* 🏫 LMS integration
+*  ML-based attendance prediction
+*  At-risk student detection
+*  Power BI / Tableau dashboard
+*  AI-driven engagement recommendations
+*  LMS integration
 
 ---
 
-## 👤 Author
+##  Author
 
 **Prateek Yadav**
-🎓 B.Tech CSE (AI)
-📊 Data Analytics | Python | Visualization
+ B.Tech CSE (AI)
+ Data Analytics | Python | Visualization
 🇮🇳 India
 
 <p align="center">
