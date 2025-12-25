@@ -11,7 +11,7 @@
 
 ---
 
-# 📊 University Attendance Analytics & Visualization
+# 📊 Online Attendance Analytics & Visualization
 
 ### *A Data-Driven Academic Intelligence System*
 
