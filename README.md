@@ -58,9 +58,6 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ## 📦 Dataset at a Glance
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="420"/>
-</p>
 
 | Metric         | Value        |
 | -------------- | ------------ |
@@ -76,9 +73,6 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ## 📈 Key Insights (Quick Intelligence)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="500"/>
-</p>
 
 * 📉 **Overall Attendance:** `46.42%`
 * ⏱ **Avg Session Duration:** `51.9 mins`
@@ -102,9 +96,6 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ## 🎓 Academic Year Analytics
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="500"/>
-</p>
 
 | Year | Attendance | Insight          |
 | ---- | ---------- | ---------------- |
@@ -158,9 +149,6 @@ This project is a **high-scale academic analytics system** built using **Python 
 
 ## 🏠 Hostel vs Day Scholar
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
-</p>
 
 | Category    | Attendance | Score    |
 | ----------- | ---------- | -------- |
@@ -183,11 +171,6 @@ This project is a **high-scale academic analytics system** built using **Python 
 ---
 
 ## 📊 Visualization Dashboard
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
-</p>
-
 Includes:
 
 * Faculty comparison charts
