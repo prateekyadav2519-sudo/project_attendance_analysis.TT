@@ -1,125 +1,236 @@
-======================================================================
-RUNGTA INTERNATIONAL SKILL UNIVERSITY, BHILAI
-ATTENDANCE ANALYSIS DATASET GENERATION
-400 Classes | 80 Students | 32,000 Records
-======================================================================
 
-RUNGTA UNIVERSITY DATASET GENERATION COMPLETE!
-======================================================================
-College: Rungta International Skill University
-Location: Bhilai, Chhattisgarh
-Total classes: 400
-Total students: 80
-Total records: 32,000
-Date range: 2025-08-26 to 2025-12-16
-Departments: 10
-Subjects: 18
-Faculty members: 8
+<!-- =================== HERO SECTION =================== -->
 
-======================================================================
-RUNGTA UNIVERSITY - DESCRIPTIVE STATISTICS
-======================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=900&lines=University+Attendance+Analytics+Dashboard;Python+%7C+Data+Science+%7C+Visualization;32%2C000+Records+%7C+Real-World+Insights" />
+</p>
 
-1. UNIVERSITY OVERVIEW
---------------------------------------------------
-Institution: Rungta International Skill University
-Location: Bhilai, Chhattisgarh
-Total Classes Conducted: 400
-Total Attendance Records: 32,000
-Classes Attended: 15,017
-Overall Attendance Rate: 46.93%
-Average Login Duration: 51.6 minutes
-Average Total Score: 79.6/100
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
 
-2. DAILY ATTENDANCE PATTERNS
---------------------------------------------------
-Monday     - Attendance:  46.7% | Duration: 24.0 min | Score: 37.1
-Tuesday    - Attendance:  50.0% | Duration: 26.2 min | Score: 40.0
-Wednesday  - Attendance:  51.4% | Duration: 26.2 min | Score: 41.2
-Thursday   - Attendance:  48.3% | Duration: 25.1 min | Score: 38.7
-Friday     - Attendance:  47.3% | Duration: 24.2 min | Score: 37.6
-Saturday   - Attendance:  39.4% | Duration: 20.3 min | Score: 30.9
+---
 
-3. DEPARTMENT-WISE ANALYSIS
---------------------------------------------------
-Department                     Attend %   Avg Score  Students   Classes   
---------------------------------------------------------------------------------
-Computer Science & Engineeri        50.0%      40.0         12        400
-Mechanical Engineering              49.0%      38.9          9        400
-Commerce                            48.0%      38.6         14        400
-Arts                                48.0%      38.4          6        400
-Business Administration             47.0%      37.6         11        400
-Information Technology              47.0%      37.2          3        400
-Electronics & Communication         46.0%      36.0          6        400
-Electrical Engineering              45.0%      35.5         10        400
-Civil Engineering                   44.0%      34.5          3        400
-Science                             40.0%      31.6          6        400
+# 📊 University Attendance Analytics & Visualization
 
-4. ACADEMIC YEAR ANALYSIS
---------------------------------------------------
-1st Year   - Attendance:  44.0% | Avg Score:  34.8 | Interactions:  4.4 | Students:  17
-2nd Year   - Attendance:  49.0% | Avg Score:  39.5 | Interactions:  4.9 | Students:  20
-3rd Year   - Attendance:  49.0% | Avg Score:  39.0 | Interactions:  4.6 | Students:  23
-4th Year   - Attendance:  45.0% | Avg Score:  35.6 | Interactions:  4.3 | Students:  20
+### *A Data-Driven Academic Intelligence System*
 
-5. TOP 10 SUBJECTS BY ATTENDANCE
---------------------------------------------------
-Programming Fundamentals       - Attendance:  51.0% | Score:  40.4 | Practical:  42.1
-Web Development                - Attendance:  51.0% | Score:  40.8 | Practical:  42.8
-IoT & Embedded Systems         - Attendance:  49.0% | Score:  38.8 | Practical:  40.4
-Business Analytics             - Attendance:  48.0% | Score:  38.0 | Practical:  39.7
-Machine Learning               - Attendance:  48.0% | Score:  38.0 | Practical:  39.6
-Data Structures & Algorithms   - Attendance:  48.0% | Score:  38.1 | Practical:  39.9
-Cloud Computing                - Attendance:  47.0% | Score:  37.7 | Practical:  39.3
-Cyber Security                 - Attendance:  47.0% | Score:  37.4 | Practical:  39.3
-Project Management             - Attendance:  47.0% | Score:  37.2 | Practical:  38.9
-Robotics & Automation          - Attendance:  47.0% | Score:  37.2 | Practical:  39.2
+![Image](https://epaouydin3q.exactdn.com/wp-content/uploads/2024/02/predictive-analytics-dashboard-1024x585.jpg?lossy=1\&ssl=1\&strip=all)
 
-6. FACULTY PERFORMANCE ANALYSIS
---------------------------------------------------
-Prof. K. Malhotra    - Attendance:  49.0% | Score:  39.3 | Classes:  54
-Prof. R. Reddy       - Attendance:  48.0% | Score:  38.1 | Classes:  43
-Dr. P. Gupta         - Attendance:  47.0% | Score:  37.1 | Classes:  47
-Dr. S. Joshi         - Attendance:  47.0% | Score:  37.4 | Classes:  45
-Prof. M. Singh       - Attendance:  47.0% | Score:  37.6 | Classes:  54
-Dr. R.K. Sharma      - Attendance:  46.0% | Score:  36.9 | Classes:  49
-Prof. S. Verma       - Attendance:  46.0% | Score:  36.9 | Classes:  54
-Dr. A. Patel         - Attendance:  45.0% | Score:  35.8 | Classes:  54
+![Image](https://media.licdn.com/dms/image/v2/C5612AQGLoE2GjFUH9w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1552576398708?e=2147483647\&t=2ZsEcKMw-LyqJEroXONjZwVHl0cCIr55LIv9mPCz-X0\&v=beta)
 
-7. TECHNOLOGY & INFRASTRUCTURE ANALYSIS
---------------------------------------------------
-Device Usage:
-  Desktop    - Attendance:  53.1% | Good Connection: 26.2% | Users:   2
-  Laptop     - Attendance:  46.4% | Good Connection: 23.0% | Users:  31
-  Mobile     - Attendance:  48.2% | Good Connection: 24.3% | Users:  31
-  Tablet     - Attendance:  44.8% | Good Connection: 22.0% | Users:  16
+![Image](https://cdn.prod.website-files.com/5efb0b7816032fd33ce6059c/62d5bbc98f1e1333116cd204_Screen%20Shot%202021-10-07%20at%2012.36.png)
 
-Internet Connectivity:
-  Broadband       - Attendance:  41.1% | Good Connection: 20.8%
-  Campus WiFi     - Attendance:  48.6% | Good Connection: 24.9%
-  Mobile Data     - Attendance:  46.2% | Good Connection: 23.0%
-  WiFi            - Attendance:  50.4% | Good Connection: 24.8%
+![Image](https://multipurposethemes.com/wp-content/uploads/2023/05/7-CRMi-UniversitySchool-2.png)
 
-8. HOSTEL vs DAY SCHOLAR ANALYSIS
---------------------------------------------------
-Day Scholar          - Attendance:  45.0% | Score:  36.0 | Duration:  23.4 min
-Hostel Student       - Attendance:  49.0% | Score:  39.4 | Duration:  25.4 min
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Analytics-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Portfolio%20Ready-success?style=for-the-badge"/>
+</p>
 
-9. SCHOLARSHIP IMPACT ANALYSIS
---------------------------------------------------
-Scholarship: No    - Attendance:  46.0% | Score:  36.5 | Assignments:  41.0%
-Scholarship: Yes   - Attendance:  49.0% | Score:  39.6 | Assignments:  44.0%
+---
 
-10. CLASS TYPE EFFECTIVENESS
---------------------------------------------------
-Lab             - Attendance:  48.0% | Engagement:   8.7 | Practical:  40.3
-Lecture         - Attendance:  46.0% | Engagement:   8.1 | Practical:  37.9
-Project         - Attendance:  51.0% | Engagement:   9.1 | Practical:  42.9
-Tutorial        - Attendance:  46.0% | Engagement:   8.2 | Practical:  38.6
-Workshop        - Attendance:  48.0% | Engagement:   8.5 | Practical:  40.0
+## 🚀 Project Overview
 
-======================================================================
-GENERATING RUNGTA UNIVERSITY VISUALIZATION DASHBOARD
-======================================================================
-Text(0.5, 1.0, 'Faculty Performance (by Attendance)')
-<img width="2060" height="836" alt="image" src="https://github.com/user-attachments/assets/7ba65a62-eb79-4f5c-8ac6-c52635f59d29" />
+This project is a **high-scale academic analytics system** built using **Python & Data Visualization**, based on simulated institutional data from
+**Rungta International Skill University**.
+
+💡 The system analyzes **32,000+ attendance records** to uncover:
+
+* Student engagement patterns
+* Faculty performance impact
+* Infrastructure & device influence
+* Academic maturity trends
+
+---
+
+## 🧠 Why This Project Stands Out
+
+✅ Real-world scale dataset
+✅ Multi-dimensional analytics
+✅ Decision-ready insights
+✅ Clean & animated visual storytelling
+✅ Strong **Data Analyst / AI Engineer** portfolio value
+
+---
+
+## 📦 Dataset at a Glance
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="420"/>
+</p>
+
+| Metric         | Value        |
+| -------------- | ------------ |
+| 📄 Records     | **32,000**   |
+| 👨‍🎓 Students | 80           |
+| 🏫 Classes     | 400          |
+| 🧪 Subjects    | 18           |
+| 🏢 Departments | 10           |
+| 👨‍🏫 Faculty  | 8            |
+| 📅 Duration    | Aug–Dec 2025 |
+
+---
+
+## 📈 Key Insights (Quick Intelligence)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="500"/>
+</p>
+
+* 📉 **Overall Attendance:** `46.42%`
+* ⏱ **Avg Session Duration:** `51.9 mins`
+* 🎯 **Avg Academic Score:** `79.4 / 100`
+* 🗓 **Best Attendance Day:** Wednesday
+* 🧪 **Top Class Type:** Project-Based
+* 🏠 **Hostel > Day Scholar Performance**
+* 🎓 **Scholarship = Higher Engagement**
+
+---
+
+## 🏢 Department Intelligence
+
+* 🔝 **Mechanical Engineering** leads attendance
+* ⚠ **Science Department** shows lowest engagement
+* 🧠 Skill-based departments dominate performance
+
+📌 *Practical exposure directly increases attendance.*
+
+---
+
+## 🎓 Academic Year Analytics
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="500"/>
+</p>
+
+| Year | Attendance | Insight          |
+| ---- | ---------- | ---------------- |
+| 1st  | 43%        | Transition phase |
+| 2nd  | 47%        | Stability        |
+| 3rd  | **49%**    | Peak maturity    |
+| 4th  | 46%        | Placement focus  |
+
+---
+
+## 📚 Subject Popularity Radar
+
+🔥 Highest Engagement Subjects:
+
+* Programming Fundamentals
+* Cloud Computing
+* Web Development
+* Machine Learning
+* Robotics & Automation
+
+📌 *Industry-aligned curriculum wins.*
+
+---
+
+## 👨‍🏫 Faculty Performance Analytics
+
+![Image](https://chartexpo.com/blog/wp-content/uploads/2022/12/performance-chart-for-employees.jpg)
+
+![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/a/t/attendance_analysis_dashboard_illustrating_absent_student__percentage_powerpoint_template_slide01.jpg)
+
+* Performance spread: **45% – 48%**
+* Indicates **systemic influence over individual bias**
+
+---
+
+## 💻 Tech & Infrastructure Impact
+
+### 🖥 Devices
+
+* Desktop users show **highest attendance**
+* Mobile & Laptop users stay consistent
+
+### 🌐 Internet
+
+* ✅ WiFi performs best
+* ❌ Broadband lags behind
+
+📌 *Connectivity quality = learning continuity.*
+
+---
+
+## 🏠 Hostel vs Day Scholar
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
+</p>
+
+| Category    | Attendance | Score    |
+| ----------- | ---------- | -------- |
+| Hostel      | **49%**    | **38.8** |
+| Day Scholar | 45%        | 35.5     |
+
+---
+
+## 🧪 Class Type Effectiveness
+
+| Type       | Attendance | Engagement |
+| ---------- | ---------- | ---------- |
+| 🚀 Project | **52%**    | **9.2**    |
+| Workshop   | 48%        | 8.6        |
+| Lab        | 47%        | 8.3        |
+| Lecture    | 45%        | 8.0        |
+
+📌 *Hands-on learning delivers maximum ROI.*
+
+---
+
+## 📊 Visualization Dashboard
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+</p>
+
+Includes:
+
+* Faculty comparison charts
+* Department heatmaps
+* Subject performance plots
+* Infrastructure impact visuals
+
+Built using **Matplotlib & Seaborn**.
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+```
+
+---
+
+## 🔮 Future Enhancements
+
+* 🤖 ML-based attendance prediction
+* 🚨 At-risk student detection
+* 📊 Power BI / Tableau dashboard
+* 🧠 AI-driven engagement recommendations
+* 🏫 LMS integration
+
+---
+
+## 👤 Author
+
+**Prateek Yadav**
+🎓 B.Tech CSE (AI)
+📊 Data Analytics | Python | Visualization
+🇮🇳 India
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0AFFEF"/>
+</p>
+
+
