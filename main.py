@@ -1,10 +1,9 @@
 
-Online Class Attendance Analysis Project
-College: Rungta International Skill University, Bhilai
-Dataset: 400 classes of 80 students each (32,000 records)
-Author: Data Visualization Student
-Course: Minor 1 - Data Visualization
-"""
+# Online Class Attendance Analysis Project
+# College: Rungta International Skill University, Bhilai
+# Dataset: 400 classes of 80 students each (32,000 records)
+# Author: Data Visualization Student
+# Course: Minor 1 - Data Visualization
 
 import pandas as pd
 import numpy as np
@@ -766,5 +765,5 @@ ax6.set_yticks(range(len(faculty_performance)))
 ax6.set_yticklabels([faculty.split()[-1] for faculty in faculty_performance.index])
 ax6.set_xlabel('Attendance Rate (%)', fontsize=12)
 ax6.set_title('Faculty Performance (by Attendance)', fontsize=14)
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
+
+
